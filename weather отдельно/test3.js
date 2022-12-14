@@ -1,5 +1,3 @@
-// адаптация с варианта от beelow
-
 const UI_ELEMENTS = {
 	INPUT: document.querySelector('.input__search'),
 	BUTTON_SEARCH: document.querySelector('.button__search'),
